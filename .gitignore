@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 week1\Police_Department_Incident_Reports__Historical_2003_to_May_2018_20240129.csv
 week1/Police_Department_Incident_Reports__Historical_2003_to_May_2018_20240129.csv
+=======
+# .gitignore
+
+# Ignore the dataset
+*.csv
+.ipynb_checkpoints
+>>>>>>> bcefdfd0cf6ce71d72c069804cff72f309a3049b
